@@ -35,7 +35,7 @@ export function CreateAccount() {
   return (
     <div className="sm:relative flex items-center justify-center w-full min-h-screen">
       <div className="sm:absolute top-[5%] px-5 sm:py-8 py-4 m-4 bg-white max-w-[500px] w-[90%] border shadow-xl rounded">
-        {/* Title */}
+        {/* Title: */}
         <h1 className="pb-4 text-3xl text-center font-bold text-orange-600 block">
           Zone Clocker
         </h1>
